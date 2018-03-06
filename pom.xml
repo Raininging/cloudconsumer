@@ -50,7 +50,7 @@
 		<repository>
 			<id>public repository</id>
 			<name>repository repository</name>
-			<url>http://fzkb.founder.com.cn/nexus/content/groups/public/</url>
+			<url>url</url>
 		</repository>
 	</repositories>
 </project>
